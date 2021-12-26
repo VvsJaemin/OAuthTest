@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.spring.jpa.generate-ddl",
+      "type": "java.lang.String",
+      "description": "Description for spring.spring.jpa.generate-ddl."
+    },
+    {
+      "name": "spring.spring.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for spring.spring.datasource.url."
+    }
+  ] }
